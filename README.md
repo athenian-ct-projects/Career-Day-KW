@@ -1,9 +1,5 @@
-# Assignment Description
+# Career Day KW '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Career-Day-KW)](https://repl.it/github/athenian-ct-projects/Career-Day-KW)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* Career quiz
